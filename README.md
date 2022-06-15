@@ -51,10 +51,10 @@ $ yarn dev
 
 ### Built With
 - Patience
-- JavaScript
+- [JavaScript](https://www.w3schools.com/js/)
 - [Vite](https://vitejs.dev)
 - [React](https://reactjs.org/)
-Thanks to Midudev
+- Thanks to [Midudev](https://midu.dev/)
 
 
 1. Fork the project
