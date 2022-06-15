@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### TikTok Clone for educational purposes
+  ### TikTok Clone
 
 </div>
 
