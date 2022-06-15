@@ -1,8 +1,7 @@
 <div align="center">
 
-  ### <img src="https://raw.githubusercontent.com/midudev/codi.link/main/assets/favicon.ico" height="30px"/> TikTok Clone
-  
-  ***TikTok Clone for educational purposes***
+  ### TikTok Clone for educational purposes
+
 </div>
 
 <div align="center">
