@@ -16,8 +16,8 @@ export const uploadVideo = async ({ videoFile }) => {
 export const publishVideo = async ({ videoSrc, description }) => {
   console.log({description})
   const defaultAlbum =
-    "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/81fd9366b0f1841e1e6990492b5c9004~c5_720x720.jpeg?x-expires=1632060000&x-signature=lJ7S3aE3YqHr8WbhkwXNIasqkZo%3D";
-  const defaultSong = "midudev songs";
+    "https://i.etsystatic.com/32636106/r/il/d8de88/3901747595/il_794xN.3901747595_gijb.jpg";
+  const defaultSong = "classic song";
 
   const { data, error } = await supabase.from("videos").insert([
     {
