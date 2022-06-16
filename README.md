@@ -39,7 +39,7 @@ Install the dependencies:
 
 ```sh
 $ npm install
-// or in
+// or
 $ yarn
 ```
 
