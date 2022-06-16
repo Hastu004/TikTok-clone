@@ -39,7 +39,7 @@ Install the dependencies:
 
 ```sh
 $ npm install
-// or in mac OS
+// or in
 $ yarn
 ```
 
@@ -47,7 +47,7 @@ Run in dev mode:
 
 ```sh
 $ npm run dev
-// or in mac OS
+// or 
 $ yarn dev 
 ```
 
