@@ -31,6 +31,8 @@
 
 TikTok clone is a educational proyect which tries to reproduce the famous TikTok app with React and Vite
 
+## [Demo](https://tiktok-clone-6c31c.web.app/)
+
 ## Getting Started
 
 Install the dependencies:
